@@ -7,7 +7,7 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-**Note:** Replace ```greenplugin``` ```greenplugin``` ```https://github.com/greenplugin``` ```wformps@gmail.com``` ```tg-bot-api``` ```bot-api-routing``` ```it's routing package for tg-bot-api/bot-api-base``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
+**Note:** Replace ```kenme1234``` ```kenme1234``` ```https://github.com/kenme1234``` ```kenme1234@gmail.com``` ```tg-bot-api``` ```bot-api-routing``` ```it's routing package for tg-bot-api/bot-api-base``` with their correct values in [README.md](README.md), [CHANGELOG.md](CHANGELOG.md), [CONTRIBUTING.md](CONTRIBUTING.md), [LICENSE.md](LICENSE.md) and [composer.json](composer.json) files, then delete this line. You can run `$ php prefill.php` in the command line to make all replacements at once. Delete the file prefill.php as well.
 
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what
 PSRs you support to avoid any confusion with users and contributors.
@@ -62,7 +62,7 @@ If you discover any security related issues, please email wformps@gmail.com inst
 
 ## Credits
 
-- [greenplugin][link-author]
+- [kenme1234][link-author]
 - [All Contributors][link-contributors]
 
 ## License
